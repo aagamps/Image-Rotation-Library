@@ -1,0 +1,3 @@
+include ':Picture_Rotation_Library'
+include ':app'
+rootProject.name = "PictureRotation"
