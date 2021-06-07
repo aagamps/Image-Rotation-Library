@@ -1,0 +1,7 @@
+<resources>
+    <string name="dismiss">dismiss</string>
+    <string name="error_no_app_found">No Apps Found</string>
+    <string name="play_store_link">https://play.google.com/store/apps/details?id=%1$s</string>
+    <string name="no_intent_client_found">No Intent Client Found</string>
+    <string name="no_internet_available">No Internet Avaiable</string>
+</resources>

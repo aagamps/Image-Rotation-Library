@@ -1,6 +1,11 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     ext.kotlin_version = "1.4.32"
+    ext.retrofit_version = '2.4.0'
+    ext.retrofit_interceptor_version = '3.10.0'
+    ext.rxjava_version = '2.1.14'
+    ext.rxandroid_version = '2.1.1'
+    ext.butterknife_version = '10.1.0'
 
     repositories {
         google()
